@@ -71,6 +71,8 @@ npm run dev
 ```
 访问 [http://localhost:3000](http://localhost:3000) 即可开始使用。
 
-## 📝 许可证
+---
 
-MIT License
+## 🌐 关注我
+
+**我的网站**: [leigeai.com](https://leigeai.com)
